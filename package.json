@@ -1,0 +1,24 @@
+{
+  "name": "regex-map-replace",
+  "version": "0.0.4",
+  "description": "Run a text string through an array of individual match-replace regular expressions.",
+  "main": "index.js",
+  "keywords": [
+    "text parse",
+    "string parse",
+    "regex map",
+    "match replace",
+    "map replace",
+    "match",
+    "replace",
+    "regular expressions",
+    "regular expression",
+    "regexp",
+    "regex"
+  ],
+  "author": "Sam Liebl <stliebl@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
