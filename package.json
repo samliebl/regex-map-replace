@@ -1,8 +1,17 @@
 {
   "name": "regex-map-replace",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Run a text string through an array of individual match-replace regular expressions.",
   "main": "index.js",
+  "homepage": "https://github.com/samliebl/regex-map-replace#readme",
+  "bugs": {
+    "url": "https://github.com/samliebl/regex-map-replace/issues",
+    "email": "stliebl@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samliebl/regex-map-replace.git"
+  },
   "keywords": [
     "text parse",
     "string parse",
@@ -16,7 +25,7 @@
     "regexp",
     "regex"
   ],
-  "author": "Sam Liebl <stliebl@gmail.com>",
+  "author": "Sam Liebl <stliebl@gmail.com> (https://samliebl.com/)",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^6.5.1"
