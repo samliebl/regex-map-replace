@@ -1,6 +1,6 @@
 {
   "name": "regex-map-replace",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "Run a text string through an array of individual match-replace regular expressions.",
   "main": "index.js",
   "homepage": "https://github.com/samliebl/regex-map-replace#readme",
